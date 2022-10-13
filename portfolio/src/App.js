@@ -17,6 +17,7 @@ function App() {
    <Route path = '/resume' element={<Resume/>}/>
   
       </Routes>
+      <img src="helloworld.jpeg" alt = "hello world"/>
     </div>
   );
 }
